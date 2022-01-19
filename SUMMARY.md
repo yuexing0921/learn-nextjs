@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [创建一个Next.js应用](README.md)
